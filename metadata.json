@@ -1,0 +1,5 @@
+{
+  "name": "Smart Battery Alarm",
+  "description": "AI-powered battery health monitoring and alarm system with auto-start features.",
+  "requestFramePermissions": []
+}
